@@ -33,9 +33,9 @@ Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 
 
 
-char auth[] = "JwJ0kdpZh6BhegO14zOrmTJdc_uel-zv";
-char ssid[] = "BND_Virus";
-char pass[] = "psap7500";
+char auth[] = "AUTH";
+char ssid[] = "WIFI";
+char pass[] = "WIFI-Password";
 int i = 3;
 int f = 255;//saturation
 int d = 255;//brightness
